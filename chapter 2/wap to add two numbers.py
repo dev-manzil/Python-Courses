@@ -1,0 +1,6 @@
+a=int(input("enter the number:"))
+b=int(input("enter the number:"))
+print("the number is:",a+b)
+a=int(input("enter the number:"))
+b=int(input("enter the number:"))
+print("the reminder after the division number is:",a%b)
